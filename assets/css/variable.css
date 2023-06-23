@@ -1,0 +1,14 @@
+
+/* variables */
+:root {
+    --uh-font-sans-serif: 'Source Sans Pro', sans-serif;
+    --uh-primary: 51, 102, 102;
+    --uh-secondary: 255, 203, 0;
+    --uh-tertiary: 255, 235, 59;
+    --uh-dark: 36, 36, 36;
+    --uh-white: 255, 255, 255;
+    --uh-black: 0, 0, 0;
+    --uh-primary-light: 245, 247, 247;
+    --uh-green: 173, 209, 99;
+    --uh-error: 255, 90, 80;
+}
